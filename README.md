@@ -2,14 +2,13 @@
 
 ![StellarIntel](ss_StellarIntel.png)
 
-A fully offline Retrieval-Augmented Generation (RAG) system that enables accurate question-answering over NASA-related topics using only authoritative Wikipedia sources.
+A fully offline Retrieval-Augmented Generation (RAG) system that enables accurate question-answering over space-related topics using only authoritative Wikipedia sources.
 
 
 ---
 ### Project Overview
 
-StellarIntel demonstrates a complete end-to-end RAG pipeline built with modern LangChain 1.0+, running 100% locally without any external API dependencies.
-
+StellarIntel demonstrates a complete end-to-end RAG pipeline built with modern LangChain 1.0+.
 - **Knowledge Base**: 5 high-quality Wikipedia articles (NASA, Apollo program, Voyager program, James Webb Space Telescope, List of NASA missions)  
 - **Total Chunks**: 757  
 - **Embedding Model**: `all-MiniLM-L6-v2` (HuggingFace)  
