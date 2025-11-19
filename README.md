@@ -3,6 +3,8 @@
 ![StellarIntel](ss_StellarIntel.png)
 
 A fully offline Retrieval-Augmented Generation (RAG) system that enables accurate question-answering over NASA-related topics using only authoritative Wikipedia sources.
+
+
 ---
 ### Project Overview
 
