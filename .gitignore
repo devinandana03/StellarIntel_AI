@@ -1,0 +1,10 @@
+stellarintel/ 
+nasa_chroma_db/ 
+victoria_chroma_db/ 
+broenv/ 
+.ipynb_checkpoints/ 
+__pycache__/ 
+.env 
+*.pyc 
+Untitled.ipnyb 
+Untitled.ipynb 

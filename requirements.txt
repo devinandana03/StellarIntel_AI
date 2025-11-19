@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchainhub
+python-dotenv
+streamlit
+sentence-transformers
+unstructured # includes PDF, DOCX, etc. support
+chromadb
+pypdf
