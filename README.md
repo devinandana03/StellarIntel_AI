@@ -17,6 +17,20 @@ StellarIntel demonstrates a complete end-to-end RAG pipeline built with modern L
 - **LLM**: Llama 3.2 3B (via Ollama) – runs entirely offline  
 - **Frontend**: Streamlit
 ---
+### Knowledge Base (757 chunks)
+
+| Source                                 | Wikipedia Link |
+|----------------------------------------|----------------|
+| NASA                                   | [Link](https://en.wikipedia.org/wiki/NASA) |
+| List of NASA missions                  | [Link](https://en.wikipedia.org/wiki/List_of_NASA_missions) |
+| Apollo program                         | [Link](https://en.wikipedia.org/wiki/Apollo_program) |
+| James Webb Space Telescope (JWST)      | [Link](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope) |
+| Voyager program                        | [Link](https://en.wikipedia.org/wiki/Voyager_program) |
+
+Embedded with: `all-MiniLM-L6-v2` · Stored in: Chroma vector DB
+
+---
+
 ### Key Technical Components
 
 - Document loading from Wikipedia with proper User-Agent handling  
